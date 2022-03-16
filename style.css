@@ -71,4 +71,24 @@ div{
     width:50% ;
     background-position: left;
 }
+.bulis-now{
+    text-align: center;
+}
+.color-coral{
+    color: coral;
+}
+.images-5{
+    width:50%;
+    background-position:left;
+}
+.flexible-container{
+    display: flex;
 
+}
+footer{
+    text-align: center;
+   background-color:black  
+}
+.color-white{
+    color: aliceblue;
+}
