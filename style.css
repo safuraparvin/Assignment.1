@@ -67,3 +67,8 @@ div{
     background-color: bisque ;
     border-radius:10px ;
 }
+.img-width{
+    width:50% ;
+    background-position: left;
+}
+
